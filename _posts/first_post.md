@@ -1,5 +1,5 @@
 ---
-title: First post
+title: "First post"
 date: 2019-5-10
 category: code
 tags: python, django, postgresql
